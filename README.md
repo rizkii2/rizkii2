@@ -1,5 +1,5 @@
 # 💫 About Me:
-halllo im fullstack developer yang punya hobi mendaki gunung heheeee :)
+hello saya fullstack developer yang punya hobi mendaki gunung heheeee :)
 
 
 ## 🌐 Socials:
